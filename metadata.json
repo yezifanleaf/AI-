@@ -1,0 +1,6 @@
+{
+  "name": "AI逆向工程与技能传授导师",
+  "description": "解剖优秀数字作品（网页特效、设计、文案、互动），进行像素级/逻辑级逆向拆解并输出保姆级重建指南。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
